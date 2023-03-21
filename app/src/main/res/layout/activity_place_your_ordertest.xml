@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".PlaceYourOrderActivity"
+   >
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.core.widget.NestedScrollView
+            android:id="@+id/nestedScrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="90dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/location"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="16dp"
+                    android:src="@drawable/ic_locationimg_24"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/textViewDeliveryshow"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="Delivery at "
+                    android:textColor="#454444"
+                    app:layout_constraintStart_toEndOf="@+id/location"
+                    app:layout_constraintTop_toTopOf="@+id/location" />
+
+                <TextView
+                    android:id="@+id/textViewHome"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/roboto"
+                    android:text="Home, "
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toEndOf="@+id/textViewDeliveryshow"
+                    app:layout_constraintTop_toTopOf="@+id/textViewDeliveryshow" />
+
+                <TextView
+                    android:id="@+id/textViewAddressAdd"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginEnd="16dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="change"
+                    android:textAllCaps="true"
+                    android:textColor="@color/red"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/textViewShowAddress"
+                    android:layout_width="272dp"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/roboto"
+                    android:text="Adarsh vihar colony,Rajeev Nagar road nos 24'O',Rajiv Nagar,Patna Bihar-800024."
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toStartOf="@+id/textViewDeliveryshow"
+                    app:layout_constraintTop_toBottomOf="@+id/textViewDeliveryshow" />
+
+                <ImageView
+                    android:id="@+id/imageViewTimer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:src="@drawable/ic_timedelivery_24"
+                    app:layout_constraintStart_toStartOf="@+id/location"
+                    app:layout_constraintTop_toBottomOf="@+id/textViewShowAddress" />
+
+                <TextView
+                    android:id="@+id/textViewDeliveryStatus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="Delivery in "
+                    android:textColor="#454444"
+
+                    app:layout_constraintStart_toEndOf="@+id/imageViewTimer"
+                    app:layout_constraintTop_toTopOf="@+id/imageViewTimer" />
+
+                <TextView
+                    android:id="@+id/textViewDeliveryTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/roboto"
+                    android:text="40 mins "
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toEndOf="@+id/textViewDeliveryStatus"
+                    app:layout_constraintTop_toTopOf="@+id/textViewDeliveryStatus" />
+
+                <TextView
+                    android:id="@+id/textViewDivider1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:background="#24787171"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/imageViewTimer" />
+
+                <ImageView
+                    android:id="@+id/imageViewCartbag"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="24dp"
+                    android:src="@drawable/ic_shopping_bag"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textViewDivider1" />
+
+                <TextView
+                    android:id="@+id/yourOrder"
+                    android:layout_width="92dp"
+                    android:layout_height="24dp"
+                    android:layout_marginStart="8dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="Your Order"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toEndOf="@+id/imageViewCartbag"
+                    app:layout_constraintTop_toTopOf="@+id/imageViewCartbag" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/cartItemsRecyclerView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:nestedScrollingEnabled="false"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/imageViewCartbag" />
+
+                <TextView
+                    android:id="@+id/textViewDivider2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:background="#24787171"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/cartItemsRecyclerView" />
+
+                <ImageView
+                    android:id="@+id/ImageViewbillDetail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="24dp"
+                    android:src="@drawable/ic_billdetail_30"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textViewDivider2" />
+
+                <TextView
+                    android:id="@+id/billDetail"
+                    android:layout_width="92dp"
+                    android:layout_height="24dp"
+                    android:layout_marginStart="8dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="Bill Details"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toEndOf="@id/ImageViewbillDetail"
+                    app:layout_constraintTop_toTopOf="@+id/ImageViewbillDetail" />
+
+                <TextView
+                    android:id="@+id/textViewItemTotal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="Item Total"
+                    android:textColor="@color/black"
+                    app:layout_constraintStart_toStartOf="@+id/ImageViewbillDetail"
+                    app:layout_constraintTop_toBottomOf="@+id/ImageViewbillDetail" />
+
+                <TextView
+                    android:id="@+id/textViewItemTotalValue"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="16dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="$218"
+                    android:textColor="@color/black"
+                    app:layout_constraintBottom_toBottomOf="@+id/textViewItemTotal"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/textViewItemTotal" />
+
+                <TextView
+                    android:id="@+id/textViewTaxesCharge"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="Taxes &amp; charges"
+                    android:textColor="@color/black"
+                    app:layout_constraintStart_toStartOf="@+id/textViewItemTotal"
+                    app:layout_constraintTop_toBottomOf="@+id/textViewItemTotal" />
+
+                <TextView
+                    android:id="@+id/textViewtaxeschargeValue"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="16dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="$50.90"
+                    android:textColor="@color/black"
+                    app:layout_constraintBottom_toBottomOf="@+id/textViewTaxesCharge"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/textViewTaxesCharge" />
+
+                <TextView
+                    android:id="@+id/textViewDeliveryCharge"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="8dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="Delivery Charges"
+                    app:layout_constraintStart_toStartOf="@+id/textViewTaxesCharge"
+                    app:layout_constraintTop_toBottomOf="@+id/textViewTaxesCharge" />
+
+                <TextView
+                    android:id="@+id/textViewDeliveryChargeValue"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="16dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="$40"
+                    app:layout_constraintBottom_toBottomOf="@+id/textViewDeliveryCharge"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/textViewDeliveryCharge" />
+
+                <TextView
+                    android:id="@+id/textViewTaxes"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="Taxes"
+                    app:layout_constraintStart_toStartOf="@+id/textViewDeliveryCharge"
+                    app:layout_constraintTop_toBottomOf="@+id/textViewDeliveryCharge" />
+
+                <TextView
+                    android:id="@+id/textViewTaxesValue"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="16dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="$10.90"
+                    app:layout_constraintBottom_toBottomOf="@+id/textViewTaxes"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/textViewTaxes" />
+
+                <TextView
+                    android:id="@+id/textViewRoundOff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="Cash Round Off"
+                    android:textColor="@color/black"
+                    app:layout_constraintStart_toStartOf="@+id/textViewTaxesCharge"
+                    app:layout_constraintTop_toBottomOf="@+id/textViewTaxes" />
+
+                <TextView
+                    android:id="@+id/textViewCashRoundOffValue"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="16dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="$0.1"
+                    android:textColor="@color/black"
+                    app:layout_constraintBottom_toBottomOf="@+id/textViewRoundOff"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/textViewRoundOff" />
+
+                <TextView
+                    android:id="@+id/textViewGrandTotal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="Grand Total"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toStartOf="@+id/textViewRoundOff"
+                    app:layout_constraintTop_toBottomOf="@+id/textViewRoundOff" />
+
+                <TextView
+                    android:id="@+id/textViewGrandTotalValue"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="16dp"
+                    android:fontFamily="@font/roboto"
+                    android:text="$269.00"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="@+id/textViewGrandTotal"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/textViewGrandTotal" />
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.core.widget.NestedScrollView>
+
+      <!--  <TextView
+            android:id="@+id/buttonPlaceYourOrder"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/addbtn_bg"
+            android:gravity="center"
+            android:padding="10dp"
+
+            android:text="Place your order"
+            android:textSize="16sp"
+            android:textStyle="bold"
+
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />-->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:paddingEnd="16dp"
+            android:paddingStart="8dp"
+            android:background="@drawable/bg_blackboundary"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constraintLayoutSelectingPayement"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                >
+
+                <ImageView
+                    android:id="@+id/ImageViewpayementcashSymbol"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:src="@drawable/ic_paymentscash_30"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/TextViewPayusing"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:text="Pay Using"
+                    android:textSize="12sp"
+                    android:textAllCaps="true"
+                    app:layout_constraintBottom_toBottomOf="@+id/ImageViewpayementcashSymbol"
+                    app:layout_constraintStart_toEndOf="@+id/ImageViewpayementcashSymbol"
+                    app:layout_constraintTop_toTopOf="@+id/ImageViewpayementcashSymbol" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@id/TextViewPayusing"
+                    android:src="@drawable/ic_baseline_arrow_drop_up_24"
+                    app:layout_constraintStart_toEndOf="@+id/TextViewPayusing"
+                    app:layout_constraintTop_toTopOf="@+id/TextViewPayusing" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Cash On Delivery"
+                    android:fontFamily="sans-serif"
+                    android:textColor="@color/black"
+                    app:layout_constraintStart_toStartOf="@+id/ImageViewpayementcashSymbol"
+                    app:layout_constraintTop_toBottomOf="@+id/ImageViewpayementcashSymbol" />
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <Button
+                android:id="@+id/buttonAddAddress"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_toEndOf="@id/constraintLayoutSelectingPayement"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="9dp"
+                android:drawableEnd="@drawable/ic_forwardarrow"
+                android:fontFamily="sans-serif"
+                android:gravity="start|center"
+                android:text="Select Address at next step"
+                android:textAllCaps="false"
+                android:textSize="16sp" />
+            <Button
+                android:id="@+id/buttonPlaceYourOrder"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_toEndOf="@id/constraintLayoutSelectingPayement"
+                android:visibility="gone"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="9dp"
+                android:drawableEnd="@drawable/ic_forwardarrow"
+                android:fontFamily="sans-serif"
+                android:gravity="center"
+                android:text="Place Order"
+                android:textAllCaps="false"
+                android:textSize="20sp" />
+
+
+        </RelativeLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

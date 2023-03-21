@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_forwardarrow.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_forwardarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\font_amaranth.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\font\\amaranth.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shopping_bag.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_shopping_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shopping_bag.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_shopping_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_activity_restaurant_menu.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout-v21\\activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_forwardarrow.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_forwardarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_paymentscash_30.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_paymentscash_30.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_paymentscash_30.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_paymentscash_30.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_billdetail_30.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_billdetail_30.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_shopping_bag.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_shopping_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_window_openinghrs.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\popup_window_openinghrs.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_paymentscash_30.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_paymentscash_30.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_recycler_row.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\menu_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_arrow_drop_up_24.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_arrow_drop_up_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_timedelivery_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_timedelivery_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_paymentscash_30.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_paymentscash_30.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_timedelivery_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_timedelivery_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_arrow_drop_up_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_arrow_drop_up_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_fsplash.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_fsplash.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_arrow_drop_up_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_arrow_drop_up_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_fastfood.gif.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\raw\\fastfood.gif"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_forwardarrow.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_forwardarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_blackboundary.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\bg_blackboundary.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_restaurant_menu.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shopping_bag.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_shopping_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_forwardarrow.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_forwardarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_arrow_drop_up_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_arrow_drop_up_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_splashanimation.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\anim\\splashanimation.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_fsplash.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_fsplash.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_timedelivery_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_timedelivery_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_arrow_drop_up_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_arrow_drop_up_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_openinghrsdp.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_openinghrsdp.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_shopping_bag.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_shopping_bag.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_forwardarrow.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_forwardarrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_arrow_drop_up_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_arrow_drop_up_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_fsplash.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_fsplash.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_succeess.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_order_succeess.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_paymentscash_30.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_paymentscash_30.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_row.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_timedelivery_24.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_timedelivery_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_timedelivery_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_timedelivery_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_locationimg_24.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_locationimg_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_paymentscash_30.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_paymentscash_30.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_openinghrsdp.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_openinghrsdp.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_billdetail_30.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_billdetail_30.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_fsplash.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_fsplash.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_thin.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\font\\roboto_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vegicon.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\vegicon.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_circle.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_place_order_recycler_row.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\place_order_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_locationimg_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_locationimg_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_remove_circle.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_remove_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_billdetail_30.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_billdetail_30.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_locationimg_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_locationimg_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_place_your_order.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_place_your_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_billdetail_30.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_billdetail_30.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_openinghrsdp.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_openinghrsdp.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_arrow_drop_up_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_arrow_drop_up_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_place_your_ordertest.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_place_your_ordertest.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_billdetail_30.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_billdetail_30.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_foodsymbol.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_foodsymbol.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_openinghrsdp.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_openinghrsdp.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_openinghrsdp.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_openinghrsdp.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_fsplash.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_fsplash.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_addbtn_bg.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\addbtn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_openinghrsdp.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_openinghrsdp.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_locationimg_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_locationimg_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_fsplash.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_fsplash.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shopping_bag.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_shopping_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_locationimg_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_locationimg_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_timedelivery_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_timedelivery_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_forwardarrow.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_forwardarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_shopping_bag.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_shopping_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_billdetail_30.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_billdetail_30.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_billdetail_30.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_billdetail_30.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_locationimg_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_locationimg_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_fsplash.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_fsplash.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_openinghrsdp.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_openinghrsdp.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vnvicon.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\vnvicon.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_paymentscash_30.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_paymentscash_30.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_timedelivery_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_timedelivery_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nonvegi.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\nonvegi.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_chicken.gif.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\raw\\chicken.gif"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_locationimg_24.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_locationimg_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_forwardarrow.png.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_forwardarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_restaurent.json.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\raw\\restaurent.json"
+    },
+    {
+        "merged": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\rk150\\Downloads\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    }
+]
